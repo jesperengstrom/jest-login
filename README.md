@@ -1,5 +1,9 @@
 # jest-react-testing-2
 
+[![Build Status](https://travis-ci.org/jesperengstrom/jest-login.svg?branch=jesper_engstrom)](https://travis-ci.org/jesperengstrom/jest-login)
+
+[![Coverage Status](https://coveralls.io/repos/github/jesperengstrom/jest-login/badge.svg?branch=jesper_engstrom)](https://coveralls.io/github/jesperengstrom/jest-login?branch=jesper_engstrom)
+
 >Example app built with [`create-react-app`](https://github.com/facebookincubator/create-react-app) for integration and snapshot testing.
 
 The project is already set up with all packages to test react components: [**`enzyme`**](http://airbnb.io/enzyme/docs/api/), `enzyme-adapter-react-16`, `react-test-renderer` and `enzyme-to-json` for snapshot testing. You can read more about setting it up here: [**Running test @ create-react-app**](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
